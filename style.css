@@ -1,0 +1,54 @@
+body {
+    background-color: #F4F4F4;
+    font-family: Arial, sans-serif;
+  }
+  
+  #app {
+    text-align: center;
+    padding-top: 15%;
+  }
+  
+  #prompt-box {
+    margin: 30px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.1);
+  }
+  
+  #prompt-text {
+    font-size: 20px;
+  }
+  
+  #new-prompt {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    background-color: #6C63FF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #save-prompt {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    background-color: #6C63FF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  
+  #save-prompt:hover {
+    background-color: #4834d4;
+  }
+  
+  
+  #new-prompt:hover {
+    background-color: #4834d4;
+  }
+  
